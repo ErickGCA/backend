@@ -1,4 +1,4 @@
-package com.backend.tapronto.model;
+package com.backend.tapronto.user.model;
 
 
 import jakarta.persistence.*;
